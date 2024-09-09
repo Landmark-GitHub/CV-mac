@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am Chatchalerm Jhurjhan student at the [Engineering Program in Software Engineering (Soft-en)](https://tupine.engr.tu.ac.th) department of [Thammasat University](https://tu.ac.th).
 
 I'm trying to find a balance between research and engineering.
 
